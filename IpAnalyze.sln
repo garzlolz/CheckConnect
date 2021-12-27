@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpAnalyze", "IpAnalyze\IpAnalyze.csproj", "{30E0F31A-036A-4532-B106-B9B50B097D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E0F31A-036A-4532-B106-B9B50B097D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E0F31A-036A-4532-B106-B9B50B097D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E0F31A-036A-4532-B106-B9B50B097D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E0F31A-036A-4532-B106-B9B50B097D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84E1749-E116-4475-8B65-9BAA40420076}
+	EndGlobalSection
+EndGlobal
